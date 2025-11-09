@@ -49,5 +49,5 @@ Each project may have its own license. Please review the respective repositoryâ€
 For inquiries, partnerships, or collaboration opportunities:
 
 **Founder:** BIGBEASTISHANK  
-**Email:** *[bbiCorp@bigbeastishank.com](mailto:bbiCorp@bigbeastishank.com)*  
+**Email:** *[bbicorporation@bigbeastishank.com](mailto:bbicorporation@bigbeastishank.com)*  
 **GitHub:** [@BIGBEASTISHANK](https://github.com/BIGBEASTISHANK)
